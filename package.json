@@ -1,0 +1,22 @@
+{
+  "name": "code-config",
+  "description": "Personal code configurations to get cleaner, better, reusable, secure and efficient codebases",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakobLierman/code-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "eslint",
+    "config"
+  ],
+  "author": "Jakob Lierman <jakob.lierman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakobLierman/code-config/issues"
+  }
+}
