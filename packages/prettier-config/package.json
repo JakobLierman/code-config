@@ -1,0 +1,23 @@
+{
+  "name": "prettier-config-jakoblierman",
+  "version": "1.0.0",
+  "description": "Personal Prettier config",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "lint",
+    "config"
+  ],
+  "author": "Jakob Lierman <jakob.lierman@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakobLierman/code-config.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakobLierman/code-config/issues"
+  },
+  "peerDependencies": {
+    "prettier": ">=2.4.x"
+  }
+}
