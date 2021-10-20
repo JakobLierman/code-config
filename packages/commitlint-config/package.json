@@ -1,0 +1,27 @@
+{
+  "name": "commitlint-config-jakoblierman",
+  "version": "1.0.0",
+  "description": "Personal commitlint configuration to make commits better",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakobLierman/code-config.git"
+  },
+  "keywords": [
+    "commit",
+    "git",
+    "lint",
+    "config"
+  ],
+  "author": "Jakob Lierman <jakob.lierman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakobLierman/code-config/issues"
+  },
+  "dependencies": {
+    "@commitlint/config-conventional": "^13.2.0"
+  },
+  "peerDependencies": {
+    "@commitlint/cli": "^12.x, ^13.x"
+  }
+}
