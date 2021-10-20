@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-jakoblierman-node",
+  "version": "1.0.0",
+  "description": "Personal ESLint configuration for Node.js on top of eslint-config-jakoblierman-base",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakobLierman/code-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "config",
+    "airbnb",
+    "node"
+  ],
+  "author": "Jakob Lierman <jakob.lierman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakobLierman/code-config/issues"
+  },
+  "dependencies": {
+    "eslint-config-jakoblierman-base": "^1.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-security-node": "^1.0.14"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.x",
+    "prettier": ">=2.4.x",
+    "typescript": ">=4.4.x"
+  }
+}
