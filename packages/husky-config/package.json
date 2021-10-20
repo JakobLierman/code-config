@@ -1,0 +1,27 @@
+{
+  "name": "husky-config-jakoblierman",
+  "version": "1.0.0",
+  "description": "Personal Husky configuration",
+  "bin": {
+    "setup-husky": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakobLierman/code-config.git"
+  },
+  "keywords": [
+    "husky",
+    "config"
+  ],
+  "author": "Jakob Lierman <jakob.lierman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakobLierman/code-config/issues"
+  },
+  "dependencies": {
+    "cp-file": "^9.1.0"
+  },
+  "peerDependencies": {
+    "husky": ">=7.x"
+  }
+}
