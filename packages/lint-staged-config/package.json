@@ -1,7 +1,7 @@
 {
   "name": "lint-staged-config-jakoblierman",
   "version": "1.0.0",
-  "description": "Personal, almost zero-config `lint-staged` configuration",
+  "description": "Personal, almost zero-config lint-staged configuration",
   "main": "index.js",
   "repository": {
     "type": "git",
