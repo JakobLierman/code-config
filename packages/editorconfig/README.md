@@ -11,7 +11,7 @@ npm install --global editorconfig-jakoblierman
 ```
 
 ```bash
-yarn global ass editorconfig-jakoblierman
+yarn global add editorconfig-jakoblierman
 ```
 
 ## Usage
